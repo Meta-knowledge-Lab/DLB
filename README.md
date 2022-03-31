@@ -1,6 +1,9 @@
-# Self-Distillation from the Last Mini-Batch (DLB)
+### Self-Distillation from the Last Mini-Batch
 
-The code for our paper "Self-Distillation from the Last Mini-Batch for Consistency Regularization" will be released very soon. 
+This is a pytorch implementation for "Self-Distillation from the Last Mini-Batch for Consistency Regularization". The paper is available at [https://arxiv.org/abs/2203.16172](https://arxiv.org/abs/2203.16172). 
+
+The code will be released very soon. 
+
 
 
 
